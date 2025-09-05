@@ -1,12 +1,18 @@
-# React + Vite
+# DevOps Activity
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository was initially created by **Hajra Rizwan** for a React application.  
+It serves as a collaborative project for learning and practicing DevOps concepts.
 
-Currently, two official plugins are available:
+## 👥 Team Members
+- Hajra Rizwan  
+- Azka Humayon  
+- Mahnoor Asif  
+- Aleeha Akhlaq  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Repository Details
+- **Repository Name:** DevOps_Activity  
+- **Created by:** Hajra Rizwan  
+- **Collaborators:** The team members listed above  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Project Overview
+This repository will contain a React application along with DevOps-related activities, configurations, and best practices.
