@@ -1,44 +1,52 @@
-# DevOps Activity
+# DevOps Activity Report
 
-This repository was initially created by **Hajra Rizwan** for a React application.  
-It serves as a collaborative project for learning and practicing DevOps concepts for Activity 1.
+This repository was created by **Hajra Rizwan** for a React application.  
+It is used by our team to learn and practice DevOps concepts for Activity 1.  
+
+---
 
 ## Team Members
-- Hajra Rizwan   - 45504  
-- Azka Humayon   - 47631  
-- Mahnoor Asif   - 44957  
-- Aleeha Akhlaq  - 46174  
+- Hajra Rizwan – 45504  
+- Azka Humayon – 47631  
+- Mahnoor Asif – 44957  
+- Aleeha Akhlaq – 46174  
+
+---
 
 ## Repository Details
 - **Repository Name:** DevOps_Activity  
 - **Created by:** Hajra Rizwan  
-- **Collaborators:** The team members listed above  
+- **Collaborators:** All team members  
+
+---
 
 ## Project Overview
-This repository will contain a React application along with DevOps-related activities, configurations, and best practices.
+The repository contains:  
+- A React application  
+- DevOps activities, setups, and best practices  
 
 ---
 
 ## Branching & Collaboration
-- Each team member **created their own branch**.  
-- Everyone **committed their changes** separately.  
-- Then, all members **pushed their branches** to the remote repository.  
-In this way, we learned how to work together without disturbing the main project.
+- Hajra Rizwan created a branch named **hajra-branch** to work safely on changes.  
 
 ---
 
 ## Pull Requests & Merge
-- After making changes, each member **created a Pull Request (PR)**.  
-- PRs were reviewed before merging into the main branch.  
-- Finally, changes were **merged** successfully.  
-In simple words: we learned how to safely bring everyone's work together into one place.
+- After making changes, a Pull Request (PR) was created.  
+- Team members reviewed the PR before merging.  
+- The changes were finally merged into the main branch.  
+
+In simple words: this showed us how to bring everyone’s work together without breaking the project.  
 
 ---
 
-## Learning Outcome (Easy Words)
-- We understood **how branches help us work separately** without breaking each other’s code.  
-- We learned **how Pull Requests help in reviewing and discussing code** before merging.  
-- We saw **how merging combines everyone's work** into the main project.  
-- In short: **Branch → Work safely**, **PR → Review & Share**, **Merge → Join work together**.  
+## Learning Outcomes
+- **Branch → Work separately and safely**  
+- **Pull Request → Share work for review before joining**  
+- **Merge → Combine everyone’s work into the main project**  
 
----
+In short:  
+**Branch → Work safely**  
+**PR → Review**  
+**Merge → Join work together**
