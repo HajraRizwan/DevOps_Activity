@@ -26,7 +26,8 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        This is my first DevOps Activity by Azka Humayon
+        This is my first DevOps Activity by Aleeha Akhlaq
       </p>
     </>
   )

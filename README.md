@@ -5,7 +5,7 @@ It is used by our team to learn and practice DevOps concepts for Activity 1.
 
 ---
 
-## Team Members
+## 👥 Team Members
 - Hajra Rizwan – 45504  
 - Azka Humayon – 47631  
 - Mahnoor Asif – 44957  
@@ -20,10 +20,11 @@ It is used by our team to learn and practice DevOps concepts for Activity 1.
 
 ---
 
-## Project Overview
+## 🚀 Project Overview
 The repository contains:  
 - A React application  
 - DevOps activities, setups, and best practices  
+- Updates to **App.js** by Azka Humayon and Aleeha Akhlaq  
 
 ---
 
