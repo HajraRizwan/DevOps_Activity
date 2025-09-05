@@ -4,18 +4,18 @@ This repository was initially created by **Hajra Rizwan** for a React applicatio
 It serves as a collaborative project for learning and practicing DevOps concepts.
 
 
-## 👥 Team Members
+## Team Members
 - Hajra Rizwan  
 - Azka Humayon  
 - Mahnoor Asif  
 - Aleeha Akhlaq  
 
-## 📌 Repository Details
+## Repository Details
 - **Repository Name:** DevOps_Activity  
 - **Created by:** Hajra Rizwan  
 - **Collaborators:** The team members listed above  
 
-## 🚀 Project Overview
+## Project Overview
 This repository will contain a React application along with DevOps-related activities, configurations, and best practices.
 
 1. App.js is updated by **Azka Humayon twice**.
