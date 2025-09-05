@@ -27,6 +27,9 @@ function App() {
       </div>
       <p className="read-the-docs">
         This is my first DevOps Activity by Azka Humayon
+        This is my first DevOps Activity by Aleeha Akhlaq
+        This is my first DevOps Activity by Mahnoor Asif
+        
       </p>
     </>
   )
