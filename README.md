@@ -18,4 +18,4 @@ It serves as a collaborative project for learning and practicing DevOps concepts
 ## 🚀 Project Overview
 This repository will contain a React application along with DevOps-related activities, configurations, and best practices.
 
-1. App.js is updated by **Azka Humayon**.
+1. App.js is updated by **Azka Humayon twice**.
