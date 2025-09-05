@@ -20,3 +20,4 @@ This repository will contain a React application along with DevOps-related activ
 
 1. App.js is updated by **Azka Humayon**.
 2. App.js is updated by **Aleeha Akhlaq**.
+3. App.js is updated by **Mahnoor Asif**.
