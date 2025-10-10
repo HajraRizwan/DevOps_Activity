@@ -1,0 +1,45 @@
+
+name: React CI / Build / Docker Pipeline
+
+on:
+  push:
+    branches:
+      - Azka-branch
+
+jobs:
+  lint-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run lint check
+        run: npm run lint
+
+      - name: Build project
+        run: npm run build
+
+  docker-build:
+    needs: lint-and-build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build -t my-react-app:latest .
+
+  notify:
+    needs: docker-build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify success
+        run: echo "Workflow finished successfully for ${{ github.ref }}"
